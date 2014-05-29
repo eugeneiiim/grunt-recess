@@ -21,7 +21,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "recess": "^1.1.6",
+    "recess": "eugeneiiim/recess",
     "async": "^0.2.9",
     "lodash": "^2.4.1",
     "chalk": "^0.4.0",
